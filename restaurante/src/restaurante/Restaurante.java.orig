@@ -1,0 +1,41 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package restaurante;
+
+<<<<<<< HEAD
+import java.sql.SQLException;
+import java.util.logging.Level;
+import java.util.logging.Logger;
+import model.Pedidos;
+=======
+import view.NovoPedido;
+
+>>>>>>> ed060d4d8c08e5275a17c388ac660e6148c31663
+
+/**
+ *
+ * @author pet
+ */
+<<<<<<< HEAD
+public class Restaurante {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args){
+        Pedidos add = new Pedidos();
+        
+        add.addPessoa("gabryel", "054.533.201-09", "9105-2707");
+=======
+public class Restaurante{
+    
+        
+    public static void main(String[] args) {           
+        new NovoPedido();               
+>>>>>>> ed060d4d8c08e5275a17c388ac660e6148c31663
+    }
+    
+}
