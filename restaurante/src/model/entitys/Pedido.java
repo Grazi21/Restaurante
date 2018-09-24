@@ -8,10 +8,7 @@ package model.entitys;
 import java.util.ArrayList;
 import java.util.Date;
 
-/**
- *
- * @author pet
- */
+
 public class Pedido {
     
     private int idpedido;

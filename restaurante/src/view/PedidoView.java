@@ -21,10 +21,7 @@ import javax.swing.JTextField;
 import javax.swing.table.DefaultTableCellRenderer;
 import javax.swing.table.TableColumn;
 
-/**
- *
- * @author gabryel
- */
+
 public class PedidoView extends javax.swing.JPanel {
     private GerenciarPedidos PedidosListener;
     /**

@@ -14,10 +14,7 @@ import javax.swing.JComboBox;
 import javax.swing.JTable;
 import javax.swing.JTextField;
 
-/**
- *
- * @author Leonardo
- */
+
 public class EstoqueView extends javax.swing.JPanel {
     private GerenciarEstoque EstoqueListener;
     /**

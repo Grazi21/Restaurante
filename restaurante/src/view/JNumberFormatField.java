@@ -17,11 +17,8 @@ import javax.swing.event.CaretListener;
 import javax.swing.text.AttributeSet;
 import javax.swing.text.BadLocationException;
 import javax.swing.text.PlainDocument;
-/**
- * Campo para a inserção de números com base em um formato.
- *
- * @author gabryel
- */
+
+
 public class JNumberFormatField extends JTextField {
     private static final long serialVersionUID = -7506506392528621022L;
     private static final NumberFormat MONETARY_FORMAT = new DecimalFormat("R$ #,##0.00");

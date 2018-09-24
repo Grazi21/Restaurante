@@ -5,10 +5,7 @@
  */
 package model.entitys;
 
-/**
- *
- * @author pet
- */
+
 public class Pedidos_finalizados {
     
     private final int idpedido_finalizado;

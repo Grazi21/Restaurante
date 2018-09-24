@@ -7,10 +7,7 @@ package model.entitys;
 
 import java.sql.ResultSet;
 
-/**
- *
- * @author pet
- */
+
 public class Menu {
     
     private int iditem_menu;

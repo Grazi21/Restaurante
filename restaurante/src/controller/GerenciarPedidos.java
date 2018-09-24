@@ -35,10 +35,7 @@ import model.entitys.Menu;
 import model.entitys.Pedido;
 import view.PedidoView;
 
-/**
- *
- * @author pet
- */
+
 public class GerenciarPedidos implements WindowListener, ActionListener{
    
     protected PedidoView view;

@@ -7,10 +7,7 @@ package model.entitys;
 
 import java.util.Date;
 
-/**
- *
- * @author pet
- */
+
 public class Funcionario extends Pessoa{
     
     private int idfuncionario;

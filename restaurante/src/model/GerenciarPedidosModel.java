@@ -19,10 +19,6 @@ import model.entitys.Menu;
 import model.entitys.Mesa;
 import model.entitys.Pedido;
 
-/**
- *
- * @author gabryel
- */
 public class GerenciarPedidosModel {
     private final Conexao db;
 

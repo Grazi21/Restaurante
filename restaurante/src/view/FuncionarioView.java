@@ -13,10 +13,7 @@ import javax.swing.JCheckBox;
 import javax.swing.JTable;
 import javax.swing.JTextField;
 
-/**
- *
- * @author Leonardo
- */
+
 public class FuncionarioView extends javax.swing.JPanel {
     private GerenciarFuncionarios FuncionariosListener;
     /**

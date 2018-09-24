@@ -9,10 +9,7 @@ import javax.swing.JLabel;
 import javax.swing.JTable;
 import javax.swing.table.DefaultTableCellRenderer;
 
-/**
- *
- * @author pet
- */
+
 public class CustomJTable extends JTable {
     DefaultTableCellRenderer centerRenderer = new DefaultTableCellRenderer();
     

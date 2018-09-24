@@ -15,10 +15,7 @@ import javax.swing.JFrame;
 
 
 
-/**
- *
- * @author marqu
- */
+
 public class RestauranteView extends javax.swing.JFrame {
     GerenciarPedidos PedidosListener;
     private static final DateFormat df = new SimpleDateFormat("dd/mm/yyyy");

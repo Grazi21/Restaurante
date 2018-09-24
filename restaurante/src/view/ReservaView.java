@@ -5,10 +5,7 @@
  */
 package view;
 
-/**
- *
- * @author Leonardo
- */
+
 public class ReservaView extends javax.swing.JPanel {
 
     /**

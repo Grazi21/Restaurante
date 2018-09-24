@@ -5,10 +5,7 @@
  */
 package model.entitys;
 
-/**
- *
- * @author pet
- */
+
 public abstract class Pessoa {
     
     private int idpessoa;

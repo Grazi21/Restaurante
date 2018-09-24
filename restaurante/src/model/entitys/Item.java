@@ -5,10 +5,6 @@
  */
 package model.entitys;
 
-/**
- *
- * @author pet
- */
 public class Item {
     
     private final Produto idproduto;

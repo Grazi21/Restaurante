@@ -7,10 +7,6 @@ package restaurante;
 import javax.swing.UIManager;
 import javax.swing.UnsupportedLookAndFeelException;
 import view.RestauranteView;
-/**
- *
- * @author pet
- */
 
 public class Restaurante{
     

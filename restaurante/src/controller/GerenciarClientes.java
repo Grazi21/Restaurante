@@ -20,10 +20,7 @@ import javax.swing.table.DefaultTableModel;
 import model.Conexao;
 import view.ClienteView;
 
-/**
- *
- * @author pet
- */
+
 public class GerenciarClientes implements ActionListener{
     
     protected ClienteView view;

@@ -5,10 +5,7 @@
  */
 package model.entitys;
 
-/**
- *
- * @author pet
- */
+
 public class Mesa {
     
     private int idmesa;

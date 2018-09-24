@@ -12,10 +12,7 @@ import java.awt.event.MouseEvent;
 import javax.swing.JTable;
 import javax.swing.JTextField;
 
-/**
- *
- * @author gabryel
- */
+
 public class ClienteView extends javax.swing.JPanel {
     private GerenciarClientes ClientesListener;
 

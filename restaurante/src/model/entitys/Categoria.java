@@ -5,10 +5,7 @@
  */
 package model.entitys;
 
-/**
- *
- * @author pet
- */
+
 public class Categoria {
     
     private int idcategoria;

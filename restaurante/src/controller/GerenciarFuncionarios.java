@@ -21,10 +21,7 @@ import javax.swing.table.DefaultTableModel;
 import model.Conexao;
 import view.FuncionarioView;
 
-/**
- *
- * @author 201319040195
- */
+
 public class GerenciarFuncionarios implements ActionListener{
 
     protected FuncionarioView view;

@@ -5,10 +5,7 @@
  */
 package model.entitys;
 
-/**
- *
- * @author pet
- */
+
 public class Itens_pedidos {
     
     private int iditens_pedidos;
